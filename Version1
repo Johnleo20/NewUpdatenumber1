@@ -1,1 +1,10 @@
-
+{
+  "Visibility": "VISIBLE",
+  "Title": "NEW VERSION",
+  "Description": "New Version August 22",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://www.mediafire.com/file/5w2hxg65wm4doc4/Rank_booster_August_22.zip/file",
+  "Version": "1.1"
+}
